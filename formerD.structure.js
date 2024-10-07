@@ -1,6 +1,7 @@
 
 
-// create an array with 8 student names, after that crete a function which takes 2 parameters(allStudents & studentName), 
+// create an array with 8 student names, after that crete 
+// a function which takes 2 parameters(allStudents & studentName), 
 // iterate over all students and find that specific user 'studentName'
 
 
