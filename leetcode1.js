@@ -4,7 +4,7 @@
 // solution
 
 
-const hel=createHelloWorld=()=>{             //creating a constant hel and assigning a function createHelloWorld
+const   hel=createHelloWorld=()=>{             //creating a constant hel and assigning a function createHelloWorld
   // createHelloWorld is an arrow function that returns another function
 return function() {                      //This function being returned
 return 'Hello World';                // The returned function will always return the Hello World
